@@ -12,7 +12,7 @@ Page copy. Title and meta go in the `<head>`. Shared blocks at the bottom stay s
 
 **Hero line:** Gwinnett County
 
-**Lede:** Water on the floor in Dacula? Call or send the form. Tell us your street and ZIP. Dacula covers old town, Harbins, and Hamilton Mill, and they are not all the same kind of house.
+**Lede:** Water where it doesn't belong? We're here to help. Call or click "Request help in Dacula" now and fill out the form. Share as much as you can about the problem and we will get back to you as soon as we can.
 
 **Call** · Request form · [First-hour checklist](/what-to-do)
 
@@ -20,11 +20,13 @@ Page copy. Title and meta go in the `<head>`. Shared blocks at the bottom stay s
 
 ## Water damage in Dacula
 
-Most homes in Dacula were built in the late 1990s and early 2000s. That is a good age for a house, but it is also the age when the water heater, the ice-maker line, and the washer hose start to fail.
+Most homes in Dacula were built in the late 1990s and early 2000s. That makes them 20 to 30 years old. This usually means the list of what can go wrong is getting longer too.
 
 So the usual call is not a flood. It is a wet garage, a soft kitchen floor, or a stain on the ceiling. A burst pipe or a leaking appliance does most of the damage here.
 
-What is under your floor matters. Many homes near Apalachee Crossing and in Hamilton Mill have a finished basement. Older houses in old town, around Broad Street and Fence Road, usually have a crawl space. A leak upstairs can end up in the basement, and a leak over a crawl space has to be dried from underneath. Either way, the water has to be removed and the structure has to dry before mold can start.
+Water does not always stay where it lands. On a slab, it spreads across the floor and soaks up into the walls. Over a crawl space, it can run underneath where you can't see it. In a finished basement, a leak upstairs can come down through the ceiling.
+
+That is why the first questions are about your house. When you call or send the form, tell us where the water came from, which rooms are wet, and how long it has been there. Tell us if the house is on a slab, over a crawl space, or has a basement. If you are not sure, say so. That is enough to start.
 
 Storms cause less damage here than leaks do, but they still do some. A hard rain can push water in at a window, a sliding door, or a bad spot in the roof. Wind and falling trees do the same. Dacula had trees down in a January 2022 winter storm, and hail the size of baseballs fell nearby in 2018. Water gets in through damaged shingles and flashing, and the stain on the ceiling can show up days later.
 

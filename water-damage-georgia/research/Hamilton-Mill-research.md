@@ -37,7 +37,7 @@ Insurance agents, sewage-by-address, school-cluster essays, mold-health claims, 
 
 ## Basics
 
-- **County:** Unincorporated Gwinnett. Not a city.
+- **County:** Gwinnett. **Now the City of Mulberry** (voters approved cityhood 21 May 2024; council elected Nov 2024; operating since Jan 2025). Gwinnett County is suing to dissolve it, and in Apr 2026 the city moved to amend its charter to end that suit. Re-check before publishing. [AccessNorthGA](https://accessnorthga.com/news/gwinnett-county-residents-vote-to-adopt-city-of-mulberry) · [WSB-TV Apr 2026](https://www.wsbtv.com/news/local/gwinnett-county/mulberrys-charter-is-changing-mayor-wants-keep-his-promise-no-new-taxes/CIGLSRFY35CDXJEJXGUYZ2YGZI/) *(corrected 2026-10-06; earlier note said unincorporated)*
 - **ZIP:** **30019** (Dacula mailing). That is why people say “Dacula.” [Gwinnett ZIP list](https://www.ciclt.net/sn/clt/capitolimpact/gw_ziplist.aspx?FIPS=13135)
 - **Roads:** I-85 **Exit 120**, Braselton Hwy / **124**, Jim Moore Rd, Hog Mountain Rd, Hamilton Mill Pkwy.
 - **Landmarks:** Hamilton Mill Golf Club; I-85 Exit 120; Homestead at Hog Mountain; Gwinnett library on Braselton Hwy / Pine; Mill Creek High (building is in Hoschton); 124 shopping strip.
