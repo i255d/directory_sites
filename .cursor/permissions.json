@@ -1,0 +1,12 @@
+{
+  "terminalAllowlist": [
+    "npm run build",
+    "npm run dev",
+    "npm run preview",
+    "npm install",
+    "git status",
+    "git log",
+    "git diff",
+    "git branch"
+  ]
+}
